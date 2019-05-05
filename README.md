@@ -32,5 +32,5 @@ _In the near future Rennon will be deployed through a Django Web Application._
 ### Notes
 
 Developed using a modified version of Google's NMT translation model with an encoder and decoder.
-
+This project was my final project for the AP Computer Science A class I took during my senior year at Brooklyn Technical High School.
 
