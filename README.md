@@ -1,8 +1,8 @@
 # Rennon
 
-Rennon is a Deep Learning Chatbot "capable" of holding a conversation 
+Rennon is a Deep Learning Chatbot "capable" of holding a conversation similar to that of a human. 
 
-similar to that of a human. At least that was the goal.
+At least that was the goal.
 
 ## Current Status
 _Monday is coming..._
