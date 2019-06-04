@@ -5,7 +5,7 @@ Rennon is a Deep Learning Chatbot "capable" of holding a conversation similar to
 At least that was the goal.
 
 ## Current Status
-_Monday is coming..._
+### This project, or the vision, is now living through [Monday](https://github.com/AfaqAnwar/Monday).
 
 Rennon V 1.0 is trained with a vocabulary size of 100,000. 
 
@@ -28,8 +28,6 @@ Months filtered.
 The deployable model is obtainable through the release pages of this repository.
 
 To currently interact with Rennon you can download a model and run the inference.py script locally. This will allow you to see all of the replies with their respective scores.
-
-_In the near future Rennon will be deployed through a Django Web Application._
 
 ### Notes
 
