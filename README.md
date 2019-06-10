@@ -5,7 +5,7 @@ Rennon is a Deep Learning Chatbot "capable" of holding a conversation similar to
 At least that was the goal.
 
 ## Current Status
-### This project, or the vision, is now living through [Monday](https://github.com/AfaqAnwar/Monday).
+#### This project, or the vision, is now living on through [Monday](https://github.com/AfaqAnwar/Monday).
 
 Rennon V 1.0 is trained with a vocabulary size of 100,000. 
 
