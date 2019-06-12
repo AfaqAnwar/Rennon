@@ -25,13 +25,13 @@ Months filtered.
 11/2018
 12/2018
 ```
-The deployable model is obtainable through the release pages of this repository.
+The deployable model along with neccesary instructions are obtainable through the [release pages](https://github.com/AfaqAnwar/Rennon/releases) of this repository.
 
 To currently interact with Rennon you can download a model and run the inference.py script locally. This will allow you to see all of the replies with their respective scores.
 
 ### Notes
 
-Developed using a modified version of Google's NMT translation model with an encoder and decoder.
+Rennon was developed using a modified version of Google's NMT translation model with an encoder and decoder.
 
-This project was my final project for the AP Computer Science A class I took during my senior year at Brooklyn Technical High School.
+This project was a piece to my [final project](https://github.com/AfaqAnwar/Monday) for the AP Computer Science A class I took during my senior year at Brooklyn Technical High School.
 
