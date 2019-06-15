@@ -1,13 +1,11 @@
 # Rennon
 
-Rennon is a Deep Learning Chatbot "capable" of holding a conversation similar to that of a human. 
-
-At least that was the goal.
+Rennon is a Deep Learning Chatbot model that "attempts" to hold generalized conversations.
 
 ## Current Status
 #### This project, or the vision, is now living on through [Monday](https://github.com/AfaqAnwar/Monday).
 
-Rennon V 1.0 is trained with a vocabulary size of 100,000. 
+Rennon V 1.0 was trained with a vocabulary size of 100,000. 
 
 V 1.0 was trained on eight months of Reddit comments.
 
@@ -25,9 +23,10 @@ Months filtered.
 11/2018
 12/2018
 ```
+
 The deployable model along with neccesary instructions are obtainable through the [release pages](https://github.com/AfaqAnwar/Rennon/releases) of this repository.
 
-To currently interact with Rennon you can download a model and run the inference.py script locally. This will allow you to see all of the replies with their respective scores.
+To interact with Rennon you can download a model and run the inference.py script locally. This will allow you to see all of the replies with their respective scores. Alternatively you can also view the [Monday Repository](https://github.com/AfaqAnwar/Monday) to communicate through a localized wep application.
 
 ### Notes
 
